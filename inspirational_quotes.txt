@@ -2,11 +2,9 @@ do or do not, there is no try -Yoda
 
 
 it seems impossible unless its done- Nelson Mandela
-<<<<<<< HEAD
-
 
 git_third_commit_test_and_try
-=======
->>>>>>> parent of 1c8ccc8... third commit
 
 Live long and prosper - Spock
+
+Banking is necessary, banks are not (Bill Gates, 1990)
